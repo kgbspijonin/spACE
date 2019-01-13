@@ -1,0 +1,2394 @@
+(csproj)
+=$
+Assembly-CSharp-Editor
+Assembly-CSharp
+(sln)
+spACE
+(jpg)
+Stainless_Cube_1024x1024
++/Assets/Field - Complete Main Menu (Lite)/Textures/Backgrounds
+Profile Picture
+=$/Assets/Looader/Textures/Backgrounds
+Placeholder Image 2
+Placeholder Image 3
+Placeholder Image 4
+Placeholder Image 5
+Placeholder Image
+=$/Assets/Looader/Textures/Demo
+Quick Start Thumb
+Trigger System Thumb
+=$/Assets/Looader/Textures/Styles/Crossfire
+Crossfire Preview
+=$/Assets/Looader/Textures/Styles/Filled
+Filled Preview
+=$/Assets/Looader/Textures/Styles/Stock
+Stock Preview
+=$/Assets/Looader/Textures/Styles/TW3
+TW3 Placeholder Background
+TW3 Preview
+=$/Assets/Sprites
+Test
+=$/Assets/TextMesh Pro/Examples & Extras/Textures
+Brushed Metal 3
+Engraved Wall Normal
+Engraved Wall
+Floor Cement
+Floor Tiles 1 - diffuse
+Floor Tiles 1 - normal
+Fruit Jelly (B&W)
+Gradient Diagonal (Color)
+Gradient Horizontal (Color)
+Gradient Vertical (Color)
+Sand Normal Map
+Small Crate_diffuse
+Small Crate_normal
+=$/Assets/Textures
+menu_background
++ and Sprites/SF UI/Background
+SF Background
+(txt)
+=$
+TODO
++/Assets/@Themes/Fonts/8bit Operator/.Data
+OFL
+=$/Assets/@Themes/Fonts/Alegreya/.Data
+FONTLOG
+OFL
+=$/Assets/@Themes/Fonts/Arvo/.Data
+FONTLOG
+OFL
+=$/Assets/@Themes/Fonts/Aubrey/.Data
+OFL
+=$/Assets/@Themes/Fonts/Aurulent Sans Mono/.Data
+OFL
+=$/Assets/@Themes/Fonts/Chela One/.Data
+OFL
+=$/Assets/@Themes/Fonts/Comfortaa/.Data
+OFL
+=$/Assets/@Themes/Fonts/Crushed/.Data
+LICENSE
+OFL
+=$/Assets/@Themes/Fonts/Delius/.Data
+OFL
+=$/Assets/@Themes/Fonts/Delius Swash Caps/.Data
+OFL
+=$/Assets/@Themes/Fonts/Delius Unicase/.Data
+OFL
+=$/Assets/@Themes/Fonts/Droid Sans/.Data
+LICENSE
+=$/Assets/@Themes/Fonts/Economica/.Data
+FONTLOG
+OFL
+=$/Assets/@Themes/Fonts/Greco Roman Lubed Wrestling/.Data
+Attribution
+=$/Assets/@Themes/Fonts/Homenaje/.Data
+FONTLOG
+OFL
+=$/Assets/@Themes/Fonts/Iceberg/.Data
+FONTLOG
+OFL
+=$/Assets/@Themes/Fonts/Iceland/.Data
+FONTLOG
+OFL
+=$/Assets/@Themes/Fonts/Josefin Sans/.Data
+OFL
+=$/Assets/@Themes/Fonts/Laila/.Data
+OFL
+=$/Assets/@Themes/Fonts/Lato/.Data
+FONTLOG
+OFL
+=$/Assets/@Themes/Fonts/Liberation Mono/.Data
+License
+=$/Assets/@Themes/Fonts/Liberation Sans/.Data
+OFL
+=$/Assets/@Themes/Fonts/Merienda/.Data
+FONTLOG
+OFL
+=$/Assets/@Themes/Fonts/Merienda One/.Data
+FONTLOG
+OFL
+=$/Assets/@Themes/Fonts/Merriweather/.Data
+FONTLOG
+OFL
+=$/Assets/@Themes/Fonts/Nobile/.Data
+OFL
+=$/Assets/@Themes/Fonts/Nova/.NovaCut
+FONTLOG
+OFL
+=$/Assets/@Themes/Fonts/Nova/.NovaFlat
+FONTLOG
+OFL
+=$/Assets/@Themes/Fonts/Nova/.NovaMono
+FONTLOG
+OFL
+=$/Assets/@Themes/Fonts/Nova/.NovaOval
+FONTLOG
+OFL
+=$/Assets/@Themes/Fonts/Nova/.NovaRound
+FONTLOG
+OFL
+=$/Assets/@Themes/Fonts/Nova/.NovaScript
+FONTLOG
+OFL
+=$/Assets/@Themes/Fonts/Nova/.NovaSlim
+FONTLOG
+OFL
+=$/Assets/@Themes/Fonts/Nova/.NovaSquare
+FONTLOG
+OFL
+=$/Assets/@Themes/Fonts/Open Sans/.Data
+LICENSE
+=$/Assets/@Themes/Fonts/Orbitron/.Data
+FONTLOG
+OFL
+=$/Assets/@Themes/Fonts/Orkney/.Data
+OFL
+=$/Assets/@Themes/Fonts/Oswald/.Data
+FONTLOG
+OFL
+=$/Assets/@Themes/Fonts/Paprika/.Data
+FONTLOG
+OFL
+=$/Assets/@Themes/Fonts/Passion One/.Data
+FONTLOG
+OFL
+=$/Assets/@Themes/Fonts/PixAntiqua/.Data
+Attribution
+=$/Assets/@Themes/Fonts/Pixel Operator/.Data
+LICENSE
+=$/Assets/@Themes/Fonts/Pointfree/.Data
+UNLICENSE
+=$/Assets/@Themes/Fonts/PTSans/.Data
+OFL
+=$/Assets/@Themes/Fonts/Raleway/.Data
+FONTLOG
+OFL
+=$/Assets/@Themes/Fonts/Righteous/.Data
+FONTLOG
+OFL
+=$/Assets/@Themes/Fonts/Roboto/.Data
+COPYRIGHT
+LICENSE
+=$/Assets/@Themes/Fonts/Roboto Mono/.Data
+LICENSE
+=$/Assets/@Themes/Fonts/Share/.Data
+FONTLOG
+OFL
+=$/Assets/@Themes/Fonts/Share Tech/.Data
+OFL
+=$/Assets/@Themes/Fonts/Share Tech Mono/.Data
+OFL
+=$/Assets/@Themes/Fonts/Sintony/.Data
+OFL
+=$/Assets/@Themes/Fonts/Source Code Pro/.Data
+OFL
+=$/Assets/@Themes/Fonts/Source Sans Pro/.Data
+OFL
+=$/Assets/@Themes/Fonts/Source Serif Pro/.Data
+OFL
+=$/Assets/@Themes/Fonts/Space Mono/.Data
+AUTHORS
+CONTRIBUTORS
+LICENSE
+OFL
+=$/Assets/@Themes/Fonts/Spaceport 2006/.Data
+Attribution
+=$/Assets/@Themes/Fonts/Tillana/.Data
+OFL
+=$/Assets/@Themes/Fonts/Ubuntu/.Data
+CONTRIBUTING
+COPYRIGHT
+FONTLOG
+LICENCE-FAQ
+LICENCE
+TRADEMARKS
+UFL
+=$/Assets/@Themes/Fonts/VT323/.Data
+OFL
+=$/Assets/Clean Title Transitions
+Read Me
+=$/Assets/Fonts/Jupiter
+LICENSE
+=$/Assets/Fonts/OpenSans
+License!
+=$/Assets/Looader
+Licence
+Read Me
+=$/Assets/TextMesh Pro/Examples & Extras/Fonts
+Anton OFL
+Bangers - OFL
+LiberationSans - OFL
+Oswald-Bold - OFL
+=$/Assets/TextMesh Pro/Resources
+LineBreaking Following Characters
+LineBreaking Leading Characters
+=$/Assets/TextMesh Pro/Sprites
+EmojiOne Attribution
+=$/Assets/Textures and Sprites/SF UI/Background
+LICENSE
+(bmp)
+=$
+UIs
++/Assets/Pictures
+CubeUI
+Mothership
+TriangleUI
+=$/Assets/Sprites
+Cursor
+=$/Assets/Textures
+Floor
+(data)
+=$/Temp
+FileManager
+(res)
+tempFile
+(resG)
+tempFile
+(bakert)
++/ProcessJobs
+2fffaa30bbd88f8354674b7874b76ff1
+e9a6970f79cd12d8b075e7d72f1b07cb
+f5f324d50cf4bf9fa9fff382b2befd80
+(backup)
+=$/Temp/__Backupscenes
+0
+(cs)
+=$/Assets
+LoadPlayerInfo
++/Classes
+Bullet
+ColorExtensions
+Cube
+Player
+Projectile
+Spaceship
+StaticInfo
+Weapon
+WeaponRef
+=$/Assets/Clean Title Transitions/Scripts
+CTTDemoManager
+=$/Assets/Field - Complete Main Menu (Lite)/Scripts
+AnimatorDisableHelper
+ChatUIManager
+CustomInputField
+DevConsoleUI
+DropdownSubMenu
+ExitToSystem
+FriendsPanelManager
+LaunchURL
+LayoutGroupPositionFix
+ListContentSizeFix
+ListTabsButton
+ListTabsManager
+ModelDissolve
+NewsPanelManager
+ObjectDisableHelper
+RadialSlider
+RotateObject
+SettingsManager
+SliderManager
+SplashScreenManager
+SwitchManager
+SwitchToMainPanels
+ToggleManager
+TooltipManager
+TopPanelButton
+TopPanelManager
+UIElementInFront
+UIElementSound
+=$/Assets/HSVPicker/Editor
+BoxSliderEditor
+=$/Assets/HSVPicker/Enums
+ColorValues
+=$/Assets/HSVPicker/Events
+ColorChangedEvent
+HSVChangedEvent
+=$/Assets/HSVPicker/Other
+ColorPickerTester
+TiltWindow
+=$/Assets/HSVPicker/UI
+ColorImage
+ColorLabel
+ColorPicker
+ColorPresets
+ColorSlider
+ColorSliderImage
+HexColorField
+SVBoxSlider
+=$/Assets/HSVPicker/UtilityScripts
+BoxSlider
+HSVUtil
+=$/Assets/Looader/Editor
+LooaderEditor
+=$/Assets/Looader/Scripts
+LO_LaunchURL
+LO_LoadingScreen
+LO_LoadScene
+LO_LoadSceneTrigger
+LO_PressAnyKey
+LO_RadialSlider
+LO_SelectStyle
+=$/Assets/Scripts
+AsteroidController
+AsteroidCreator
+AsteroidMovementController
+BarrelButtonPopulator
+BasicUI
+BossController
+BossWeaponController
+BulletController
+ButtonPopulator
+CameraController
+ChangeTextToPlayer
+ColorButtonPopulator
+DamageDealer
+DestroyOnExit
+EnemyBulletController
+EnemyController
+EnemyCreator
+FramerateLimiter
+HitReceiver
+PlayBorder
+PlayerController
+TestColorer
+TumbleAsteroid
+UsingSpaceshipUpdater
+UsingWeaponUpdater
+WeaponController
+WeaponPreviewer
+WeaponsController
++/Deprecated
+FireWeapon
+PlayerMover2
+SpaceshipLoader
+SpaceshipPacifier
+=$/Assets/Scripts/UI
+ApplicationManager
+ChangeColor
+DragMe
+DragPanel
+DropMe
+PanelManager
+ResizePanel
+ScrollDetailTexture
+ShowSliderValue
+=$/Assets/TextMesh Pro/Examples & Extras/Scripts
+Benchmark01
+Benchmark01_UGUI
+Benchmark02
+Benchmark03
+Benchmark04
+CameraController
+ChatController
+EnvMapAnimator
+ObjectSpin
+ShaderPropAnimator
+SimpleScript
+SkewTextExample
+TeleType
+TextConsoleSimulator
+TextMeshProFloatingText
+TextMeshSpawner
+TMPro_InstructionOverlay
+TMP_DigitValidator
+TMP_ExampleScript_01
+TMP_FrameRateCounter
+TMP_PhoneNumberValidator
+TMP_TextEventCheck
+TMP_TextEventHandler
+TMP_TextInfoDebugTool
+TMP_TextSelector_A
+TMP_TextSelector_B
+TMP_UiFrameRateCounter
+VertexColorCycler
+VertexJitter
+VertexShakeA
+VertexShakeB
+VertexZoom
+WarpTextExample
+=$/Assets/VolumetricLines/ExampleScenes/ExampleScripts
+CannonBehavior
+CreateSinShapedLineStrip
+ShotBehavior
+=$/Assets/VolumetricLines/Scripts
+VolumetricLineBehavior
+VolumetricLineSettings
+VolumetricLineStripBehavior
+VolumetricLineVertexData
+VolumetricMultiLineBehavior
++/Utils
+TransformExtensionMethods
+(unitytheme)
+=$/Assets/@Themes
+Classy
+Default
+Simplicity
+(asset)
+Undo
+=$/Assets/Field - Complete Main Menu (Lite)
+Post-Processing v2 Profile
+=$/Assets/Models
+CombinedMeshes_lambert1_-28752
+=$/Assets/TextMesh Pro/Examples & Extras/Resources/Color Gradient Presets
+Blue to Purple - Vertical
+Dark to Light Green - Vertical
+Light to Dark Green - Vertical
+Yellow to Orange - Vertical
+=$/Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials
+Anton SDF
+Bangers SDF
+Electronic Highway Sign SDF
+Oswald Bold SDF
+Roboto-Bold SDF
+=$/Assets/TextMesh Pro/Examples & Extras/Resources/Sprite Assets
+Default Sprite Asset
+DropCap Numbers
+=$/Assets/TextMesh Pro/Resources
+TMP Settings
++/Fonts & Materials
+LiberationSans SDF
+=$/Assets/TextMesh Pro/Resources/Sprite Assets
+EmojiOne
+=$/Assets/TextMesh Pro/Resources/Style Sheets
+Default Style Sheet
+=$/Assets/VolumetricLines/ExampleScenes/ExampleTerrain
+ExampleLaserCannonTerrain
+(dll)
+=$/Assets/@Themes
+ZiosThemes
+(ttf)
++/Fonts/8bit Operator
+8bitOperatorPlus-Bold
+8bitOperatorPlus-Regular
+8bitOperatorPlus8-Bold
+8bitOperatorPlus8-Regular
+8bitOperatorPlusSC-Bold
+8bitOperatorPlusSC-Regular
+=$/Assets/@Themes/Fonts/Alegreya
+Alegreya-Black
+Alegreya-BlackItalic
+Alegreya-Bold
+Alegreya-BoldItalic
+Alegreya-Italic
+Alegreya-Regular
+=$/Assets/@Themes/Fonts/Arvo
+Arvo-Bold
+Arvo-BoldItalic
+Arvo-Italic
+Arvo-Regular
+=$/Assets/@Themes/Fonts/Aubrey
+Aubrey-Regular
+=$/Assets/@Themes/Fonts/Chela One
+ChelaOne-Regular
+=$/Assets/@Themes/Fonts/Chub Gothic
+ChubGothic
+=$/Assets/@Themes/Fonts/Comfortaa
+Comfortaa-Bold
+Comfortaa-Light
+Comfortaa-Regular
+=$/Assets/@Themes/Fonts/Crushed
+Crushed
+=$/Assets/@Themes/Fonts/Delius
+Delius-Regular
++ Swash Caps
+DeliusSwashCaps-Regular
+=$/Assets/@Themes/Fonts/Delius Unicase
+DeliusUnicase-Bold
+DeliusUnicase-Regular
+=$/Assets/@Themes/Fonts/Droid Sans
+DroidSans-Bold
+DroidSans-Normal
+=$/Assets/@Themes/Fonts/Economica
+Economica-Bold
+Economica-BoldItalic
+Economica-Italic
+Economica-Regular
+=$/Assets/@Themes/Fonts/Greco Roman Lubed Wrestling
+GrecoRomanLubedWrestling
+=$/Assets/@Themes/Fonts/Homenaje
+Homenaje-Regular
+=$/Assets/@Themes/Fonts/Iceberg
+Iceberg-Regular
+=$/Assets/@Themes/Fonts/Iceland
+Iceland-Regular
+=$/Assets/@Themes/Fonts/Josefin Sans
+JosefinSans-Bold
+JosefinSans-BoldItalic
+JosefinSans-Italic
+JosefinSans-Light
+JosefinSans-LightItalic
+JosefinSans-Regular
+JosefinSans-SemiBold
+JosefinSans-SemiBoldItalic
+JosefinSans-Thin
+JosefinSans-ThinItalic
+=$/Assets/@Themes/Fonts/Laila
+Laila-Bold
+Laila-Light
+Laila-Medium
+Laila-Regular
+Laila-Semibold
+=$/Assets/@Themes/Fonts/Lato
+Lato-Black
+Lato-BlackItalic
+Lato-Bold
+Lato-BoldItalic
+Lato-Hairline
+Lato-HairlineItalic
+Lato-Italic
+Lato-Light
+Lato-LightItalic
+Lato-Regular
+=$/Assets/@Themes/Fonts/Liberation Mono
+LiberationMono-Bold
+LiberationMono-BoldItalic
+LiberationMono-Italic
+LiberationMono-Regular
+=$/Assets/@Themes/Fonts/Liberation Sans
+LiberationSans-Bold
+LiberationSans-BoldItalic
+LiberationSans-Italic
+LiberationSans-Regular
+=$/Assets/@Themes/Fonts/Merienda
+Merienda-Bold
+Merienda-Regular
++ One
+MeriendaOne-Regular
+=$/Assets/@Themes/Fonts/Merriweather
+Merriweather-Black
+Merriweather-BlackItalic
+Merriweather-Bold
+Merriweather-BoldItalic
+Merriweather-Italic
+Merriweather-Light
+Merriweather-LightItalic
+Merriweather-Regular
+=$/Assets/@Themes/Fonts/Nobile
+Nobile-Bold
+Nobile-BoldItalic
+Nobile-Italic
+Nobile-Medium
+Nobile-MediumItalic
+Nobile-Regular
+=$/Assets/@Themes/Fonts/Nova
+NovaCut
+NovaFlat
+NovaMono
+NovaOval
+NovaRound
+NovaScript
+NovaSlim
+NovaSquare
+=$/Assets/@Themes/Fonts/Open Sans
+OpenSans-Bold
+OpenSans-BoldItalic
+OpenSans-ExtraBold
+OpenSans-ExtraBoldItalic
+OpenSans-Italic
+OpenSans-Light
+OpenSans-LightItalic
+OpenSans-Regular
+OpenSans-Semibold
+OpenSans-SemiboldItalic
+=$/Assets/@Themes/Fonts/Orbitron
+Orbitron-Black
+Orbitron-Bold
+Orbitron-Medium
+Orbitron-Regular
+=$/Assets/@Themes/Fonts/Orkney
+Orkney-Medium
+=$/Assets/@Themes/Fonts/Oswald
+Oswald-Bold
+Oswald-Light
+Oswald-Regular
+=$/Assets/@Themes/Fonts/Paprika
+Paprika-Regular
+=$/Assets/@Themes/Fonts/Passion One
+PassionOne-Black
+PassionOne-Bold
+PassionOne-Regular
+=$/Assets/@Themes/Fonts/PixAntiqua
+PixAntiqua
+=$/Assets/@Themes/Fonts/Pixel Operator
+PixelOperator-Bold
+PixelOperator
+PixelOperator8-Bold
+PixelOperator8
+PixelOperatorHB
+PixelOperatorHB8
+PixelOperatorHBSC
+PixelOperatorMono-Bold
+PixelOperatorMono
+PixelOperatorMono8-Bold
+PixelOperatorMono8
+PixelOperatorMonoHB
+PixelOperatorMonoHB8
+PixelOperatorSC-Bold
+PixelOperatorSC
+=$/Assets/@Themes/Fonts/Pointfree
+Pointfree
+=$/Assets/@Themes/Fonts/PTSans
+PTSans-Web-Bold
+PTSans-Web-BoldItalic
+PTSans-Web-Italic
+PTSans-Web-Regular
+=$/Assets/@Themes/Fonts/Raleway
+Raleway-Black
+Raleway-BlackItalic
+Raleway-Bold
+Raleway-BoldItalic
+Raleway-ExtraBold
+Raleway-ExtraBoldItalic
+Raleway-ExtraLight
+Raleway-ExtraLightItalic
+Raleway-Italic
+Raleway-Light
+Raleway-LightItalic
+Raleway-Medium
+Raleway-MediumItalic
+Raleway-Regular
+Raleway-SemiBold
+Raleway-SemiBoldItalic
+Raleway-Thin
+Raleway-ThinItalic
+=$/Assets/@Themes/Fonts/Righteous
+Righteous-Regular
+=$/Assets/@Themes/Fonts/Roboto
+Roboto-Black
+Roboto-BlackItalic
+Roboto-Bold
+Roboto-BoldItalic
+Roboto-Italic
+Roboto-Light
+Roboto-LightItalic
+Roboto-Medium
+Roboto-MediumItalic
+Roboto-Regular
+Roboto-Thin
+Roboto-ThinItalic
++ Mono
+RobotoMono-Bold
+RobotoMono-BoldItalic
+RobotoMono-Italic
+RobotoMono-Light
+RobotoMono-LightItalic
+RobotoMono-Medium
+RobotoMono-MediumItalic
+RobotoMono-Regular
+RobotoMono-Thin
+RobotoMono-ThinItalic
+=$/Assets/@Themes/Fonts/SFPixelate
+SFPixelate-Bold
+SFPixelate-BoldOblique
+SFPixelate-Oblique
+SFPixelate
+SFPixelateShaded-Bold
+SFPixelateShaded-BoldObliqu
+SFPixelateShaded-Oblique
+SFPixelateShaded
+=$/Assets/@Themes/Fonts/Share
+Share-Bold
+Share-BoldItalic
+Share-Italic
+Share-Regular
++ Tech
+ShareTech-Regular
++ Mono
+ShareTechMono-Regular
+=$/Assets/@Themes/Fonts/Sintony
+Sintony-Bold
+Sintony-Regular
+=$/Assets/@Themes/Fonts/Source Code Pro
+SourceCodePro-Black
+SourceCodePro-Bold
+SourceCodePro-ExtraLight
+SourceCodePro-Light
+SourceCodePro-Medium
+SourceCodePro-Regular
+SourceCodePro-Semibold
+=$/Assets/@Themes/Fonts/Source Sans Pro
+SourceSansPro-Black
+SourceSansPro-BlackItalic
+SourceSansPro-Bold
+SourceSansPro-BoldItalic
+SourceSansPro-ExtraLight
+SourceSansPro-ExtraLightItalic
+SourceSansPro-Italic
+SourceSansPro-Light
+SourceSansPro-LightItalic
+SourceSansPro-Regular
+SourceSansPro-Semibold
+SourceSansPro-SemiboldItalic
+=$/Assets/@Themes/Fonts/Source Serif Pro
+SourceSerifPro-Bold
+SourceSerifPro-Regular
+SourceSerifPro-Semibold
+=$/Assets/@Themes/Fonts/Space Mono
+SpaceMono-Bold
+SpaceMono-BoldItalic
+SpaceMono-Italic
+SpaceMono-Regular
+=$/Assets/@Themes/Fonts/Tillana
+Tillana-Bold
+Tillana-ExtraBold
+Tillana-Medium
+Tillana-Regular
+Tillana-SemiBold
+=$/Assets/@Themes/Fonts/Ubuntu
+Ubuntu-Bold
+Ubuntu-BoldItalic
+Ubuntu-Italic
+Ubuntu-Light
+Ubuntu-LightItalic
+Ubuntu-Medium
+Ubuntu-MediumItalic
+Ubuntu-Regular
+=$/Assets/@Themes/Fonts/VT323
+VT323-Regular
+=$/Assets/@Themes/Fontsets
+Border
+Button
+Code
+Header
+Highlight
+Main
+Search
+=$/Assets/Clean Title Transitions/Fonts
+OpenSans-Bold
+OpenSans-BoldItalic
+OpenSans-ExtraBold
+OpenSans-ExtraBoldItalic
+OpenSans-Italic
+OpenSans-Light
+OpenSans-LightItalic
+OpenSans-Regular
+OpenSans-Semibold
+OpenSans-SemiboldItalic
+=$/Assets/Fonts/Jupiter
+Jupiter
+=$/Assets/Fonts/OpenSans
+OpenSansBold
+OpenSansLight
+OpenSansRegular
+OpenSansSemibold
+=$/Assets/Looader/Fonts
+Roboto Light
+Roboto Medium
+Roboto Regular
+Roboto Thin
+=$/Assets/TextMesh Pro/Examples & Extras/Fonts
+Anton
+Bangers
+LiberationSans
+Oswald-Bold
+(otf)
+=$/Assets/@Themes/Fonts/Aurulent Sans Mono
+AurulentSansMono
+=$/Assets/@Themes/Fonts/Orkney
+Orkney-Bold
+Orkney-Light
+Orkney-Regular
+=$/Assets/@Themes/Fonts/Spaceport 2006
+Spaceport2006
+=$/Assets/@Themes/Fonts/Squares
+SquaresBoldFree
+=$/Assets/Field - Complete Main Menu (Lite)/Fonts
+Nexa - Bold
+Nexa - Light
+(README)
+=$/Assets/@Themes/Fonts/Chub Gothic/.Data
+
+=$/Assets/@Themes/Fonts/Liberation Mono/.Data
+
+=$/Assets/@Themes/Fonts/Source Sans Pro/.Data
+
+=$/Assets/@Themes/Fonts/Source Serif Pro/.Data
+
+=$/Assets/@Themes/Fonts/Ubuntu/.Data
+
+(AUTHORS)
+=$/Assets/@Themes/Fonts/Liberation Mono/.Data
+
+(ChangeLog)
+
+(COPYING)
+
+(pdf)
+=$/Assets/@Themes/Fonts/SFPixelate/.Data
+LICENSE
+=$/Assets/@Themes/Fonts/Squares/.Data
+OFL
+=$/Assets/Field - Complete Main Menu (Lite)/Documentation
+Documentation
+=$/Assets/Looader
+Documentation
+=$/Assets/TextMesh Pro/Documentation
+TextMesh Pro User Guide 2016
+(md)
+=$/Assets/@Themes/Fonts/Space Mono/.Data
+README
+(unityfontset)
+=$/Assets/@Themes/Fontsets/Basic
+Classic
+Droid
+Lato
+Liberation
+Nobile
+Open
+Orkney
+Ubuntu
+=$/Assets/@Themes/Fontsets/Pixel
+8bitOperator-Small
+8bitOperator
+Antiqua
+Operator
+SF
+=$/Assets/@Themes/Fontsets/Styled
+Elegance
+Etched
+Fine
+Iced
+Press
+Quirky
+Reformed
+Round
+Signature
+Simplicity
+Strong
+Tall
+=$/Assets/@Themes/Fontsets/Themed
+Gothic
+Space
+Terminal
+(png)
+=$/Assets/@Themes/Iconsets/Default
+Animation.AddEvent
+Animation.AddKeyframe
+Animation.NextKey
+Animation.Play
+Animation.PrevKey
+Animation.Record
+AnimationWrapModeMenu
+AS Badge Delete
+AS Badge Move
+AS Badge New
+Avatar Icon
+AvatarPivot
+BodyPartPicker
+BodySilhouette
+Camera Icon
+CloudConnect
+Collab
+CollabConflict
+CollabError
+CollabNew
+CollabProgress
+CollabPull
+CollabPush
+ColorPicker.CycleColor
+ColorPicker.CycleSlider
+console.warnicon
+console.warnicon.sml
+CustomSorting
+DotFill
+DotFrame
+DotFrameDotted
+DotSelection
+EditCollider
+eyeDropper.Large
+Favorite
+FilterByLabel
+FilterByType
+Folder Icon
+greenLight
+lightRim
+Mirror
+MoveTool on
+MoveTool
+orangeLight
+PauseButton Anim
+PauseButton On
+PauseButton
+PlayButton Anim
+PlayButton On
+PlayButton
+PlayButtonProfile Anim
+PlayButtonProfile On
+PlayButtonProfile
+playLoopOff
+PreTextureAlpha
+PreTextureMipMapHigh
+PreTextureMipMapLow
+PreTextureRGB
+Profiler.NextFrame
+Profiler.PrevFrame
+Profiler.Record
+RectTool On
+RectTool
+RectTransformBlueprint
+RectTransformRaw
+redLight
+renderdoc
+RotateTool On
+RotateTool
+ScaleTool On
+ScaleTool
+SceneLoadIn
+SceneLoadOut
+SceneSave
+SpeedScale
+StepButton Anim
+StepButton On
+StepButton
+Toolbar Minus
+Toolbar Plus More
+Toolbar Plus
+ToolHandleCenter
+ToolHandleGlobal
+ToolHandleLocal
+ToolHandlePivot
+TreeEditor.Trash
+UnityEditor.HierarchyWindow
+UnityLogo
+ViewToolMove On
+ViewToolMove
+ViewToolOrbit On
+ViewToolOrbit
+ViewToolZoom On
+ViewToolZoom
+WaitSpin00
+WaitSpin01
+WaitSpin02
+WaitSpin03
+WaitSpin04
+WaitSpin05
+WaitSpin06
+WaitSpin07
+WaitSpin08
+WaitSpin09
+WaitSpin10
+WaitSpin11
+WelcomeScreen.AssetStoreLogo
+WelcomeScreen.MainHeader
+WelcomeScreen.UnityAnswersLogo
+WelcomeScreen.UnityBasicsLogo
+WelcomeScreen.UnityForumLogo
+WelcomeScreen.VideoTutLogo
+_Help
+_Popup
+=$/Assets/@Themes/Iconsets/Simplicity
+Animation.Record
+Avatar Icon
+CloudConnect
+Collab
+CustomSorting
+Empty
+Favorite
+FilterByLabel
+FilterByType
+MoveTool on
+MoveTool
+PauseButton Anim
+PauseButton On
+PauseButton
+PlayButton Anim
+PlayButton On
+PlayButton
+PlayButtonProfile Anim
+PlayButtonProfile On
+PlayButtonProfile
+RectTool On
+RectTool
+RotateTool On
+RotateTool
+ScaleTool On
+ScaleTool
+StepButton Anim
+StepButton On
+StepButton
+Toolbar Minus
+Toolbar Plus More
+Toolbar Plus
+ToolHandleCenter
+ToolHandleGlobal
+ToolHandleLocal
+ToolHandlePivot
+UnityEditor.HierarchyWindow
+UnityLogo
+ViewToolMove On
+ViewToolMove
+ViewToolOrbit On
+ViewToolOrbit
+ViewToolZoom On
+ViewToolZoom
+WaitSpin00
+WaitSpin01
+WaitSpin02
+WaitSpin03
+WaitSpin04
+WaitSpin05
+WaitSpin06
+WaitSpin07
+WaitSpin08
+WaitSpin09
+WaitSpin10
+WaitSpin11
+_Help
+_Popup
++/Dynamic
+#!C-C-C-Collab
+#Animation.Record
+#Avatar Icon
+#CloudConnect
+#Collab
+#CustomSorting
+#Favorite
+#FilterByLabel
+#FilterByType
+#MoveTool on
+#MoveTool
+#PauseButton Anim
+#PauseButton On
+#PauseButton
+#PlayButton Anim
+#PlayButton On
+#PlayButton
+#PlayButtonProfile Anim
+#PlayButtonProfile On
+#PlayButtonProfile
+#RectTool On
+#RectTool
+#RotateTool On
+#RotateTool
+#ScaleTool On
+#ScaleTool
+#StepButton Anim
+#StepButton On
+#StepButton
+#Toolbar Minus
+#Toolbar Plus More
+#Toolbar Plus
+#ToolHandleCenter
+#ToolHandleGlobal
+#ToolHandleLocal
+#ToolHandlePivot
+#UnityEditor.HierarchyWindow
+#UnityLogo
+#ViewToolMove On
+#ViewToolMove
+#ViewToolOrbit On
+#ViewToolOrbit
+#ViewToolZoom On
+#ViewToolZoom
+#WaitSpin00
+#WaitSpin01
+#WaitSpin02
+#WaitSpin03
+#WaitSpin04
+#WaitSpin05
+#WaitSpin06
+#WaitSpin07
+#WaitSpin08
+#WaitSpin09
+#WaitSpin10
+#WaitSpin11
+#_Help
+#_Popup
+=$/Assets/@Themes/Palettes/@Generated
+ColorBorder
+ColorBorderActive
+ColorBorderButton
+ColorBorderIcons
+ColorHeader
+ColorHighlight
+ColorHighlightActive
+ColorHighlightButton
+ColorHighlightIcons
+ColorMain
+ColorMainActive
+ColorMainButton
+ColorMainIcons
+ColorScrollbar
+ColorScrollbarThumb
+=$/Assets/@Themes/Skinsets/Simplicity/+ClassyForms
+20-BA8-6-SoftTabActive
+8-BA8-6-SoftTabActive
+86-BA8-6-SoftTabActive
+8A-BA8-6-SoftTabActive
+SoftBorderHeader
+SoftButton
+SoftButtonActive
+SoftButtonBorder
+SoftButtonBorderActive
+SoftButtonLeft
+SoftButtonLeftActive
+SoftButtonLeftPressed
+SoftButtonMiddle
+SoftButtonMiddleActive
+SoftButtonRight
+SoftButtonRightActive
+SoftButtonToolbar
+SoftButtonToolbarActive
+SoftButtonToolbarPressed
+SoftCheckboxChecked
+SoftCheckboxCheckedActive
+SoftCheckboxUnchecked
+SoftCheckboxUncheckedActive
+SoftControl
+SoftControlActive
+SoftDropdown
+SoftDropdownActive
+SoftDropdownToolbar
+SoftDropdownToolbarActive
+SoftField
+SoftFieldActive
+SoftFrame
+SoftFrameFilled
+SoftHeader
+SoftHeaderActive
+SoftPopup
+SoftPopupActive
+SoftPopupToolbar
+SoftPopupToolbarActive
+SoftSearch
+SoftSearchActive
+SoftSearchCancel
+SoftSearchCancelActive
+SoftSearchCancelClosed
+SoftSearchClosed
+SoftSelector
+SoftSelectorActive
+SoftTab
+SoftTabActive
+SoftThumb
+SoftThumbActive
+SoftToolbar
++/Dynamic
+#!1-5-5-SoftBorderHeader
+#!12-9-C-SoftButtonToolbar
+#!12-9-C-SoftDropdownToolbar
+#!12-9-C-SoftPopupToolbar
+#!12-9-C-SoftSearch
+#!12-9-C-SoftSearchCancel
+#!17-BA7-3-SoftCheckboxChecked
+#!17A7-BA5-3-SoftPopup
+#!18-2-2-SoftButtonActive
+#!18-2-2-SoftDropdownActive
+#!18-2-2-SoftPopupActive
+#!18-2-2A-SoftControlActive
+#!18-2-2A-SoftThumbActive
+#!18-9-2-SoftCheckboxCheckedActive
+#!2-9-3-SoftFieldActive
+#!23-B-10-SoftButtonToolbarActive
+#!23-B-10-SoftDropdownToolbarActive
+#!23-B-10-SoftPopupToolbarActive
+#!23-B-10-SoftSearchActive
+#!23-B-10-SoftSearchCancelActive
+#!23-B-10-SoftSearchCancelClosed
+#!23-B-10-SoftSearchClosed
+#!23A6-B-11-SoftButtonToolbarPressed
+#!3-BA5-BA1-SoftField
+#!3A-9-2-SoftCheckboxUncheckedActive
+#!4A-2-2-SoftSelectorActive
+#!4A7-BA5-3-SoftSelector
+#!4A7-BA7-14-SoftThumb
+#!4A7-BA7-14A-SoftControl
+#!4A7-BA7-3-SoftButton
+#!4A7-BA7-3-SoftDropdown
+#!7-B-5-SoftButtonLeftPressed
+#!7-BA4-7A7-SoftTab
+#!8A6-B-6-SoftButtonBorderActive
+#!8A6-B-6-SoftButtonLeftActive
+#!8A6-B-6-SoftButtonMiddleActive
+#!8A6-B-6-SoftButtonRightActive
+#!8A6-BA5-7-SoftButtonBorder
+#!8A6-BA5-7-SoftButtonLeft
+#!8A6-BA5-7-SoftButtonMiddle
+#!8A6-BA5-7-SoftButtonRight
+#!8A6-BA8-6-SoftTabActive
+#!9-9-5-SoftToolbar
+#!BA1-BA5-3-SoftCheckboxUnchecked
+#!C-BA2-15-SoftHeaderActive
+#!C-BA2-15A1-SoftHeader
+#SoftFrame
+#SoftFrameFilled
+=$/Assets/@Themes/Skinsets/Simplicity/+WindowBrushed
+BrushedAppToolbar
+BrushedBorderFilled
+BrushedBorderHeader
+BrushedDetailFilled
+BrushedDock
+BrushedFilled
+BrushedHeader
++/Dynamic
+#!1-5-5-BrushedBorderHeader
+#!15-C-1-BrushedFilled
+#!15-C-5-BrushedBorderFilled
+#!8-C-5-BrushedAppToolbar
+#!8-C-5-BrushedDock
+#!C-5-5-BrushedHeader
+#!C-C-30-BrushedDetailFilled
+=$/Assets/@Themes/Skinsets/Simplicity/Background
+ArrowDown
+ArrowLeft
+ArrowRight
+ArrowUp
+CancelButton
+CancelButtonActive
+CheckboxChecked
+CheckboxCheckedActive
+CheckboxCollapse
+CheckboxCollapseActive
+CheckboxExpand
+CheckboxExpandActive
+CheckboxUnchecked
+CheckboxUncheckedActive
+Checkmark
+CheckmarkHover
+Close
+CloseHover
+ColorField
+ColorFieldActive
+ColorHighlight50
+ColorMainButton50
+ColorPickerHorizontal
+ColorPickerVertical
+Details
+DockFrame
+Error
+Favorite
+Frame
+FrameFilled
+Info
+InspectorLocked
+InspectorLockedHover
+InspectorUnlocked
+InspectorUnlockedHover
+LineBottomThick-BorderButton
+LineBottomThick-BorderButtonActive
+LineRight-Border
+LineRight-Highlight
+LineRight-HighlightButton
+LineRight-Main
+Link
+Link50
+LinkBroken
+LinkBroken50
+Maximize
+MaximizeHover
+Minimize
+MinimizeHover
+Minus
+MinusInvert
+Outline-Border-Thick
+Outline-Border
+Outline-Button-Thick
+PaneOptions
+PaneOptionsHover
+PatternPlus
+Plus
+PlusInvert
+Popup
+PopupActive
+PopupActiveMini
+PopupMini
+PopupToolbar
+PopupToolbarActive
+Search
+SearchActive
+SearchPopup
+SearchPopupActive
+Selector
+SelectorActive
+SelectorActiveMini
+SelectorMini
+Sideline-Highlight
+SolidBlack
+SolidClear
+TabActive
+TabWindow
+Tag
+TransitionOff
+TransitionOn
+TriangleDown
+TriangleDownMini
+TriangleLeft
+TriangleRight
+TriangleUp
+Warning
++/Dynamic
+#!1-10-23-CancelButtonActive
+#!1-10-23-PopupToolbarActive
+#!1-10-23-SearchActive
+#!1-10-23-SearchPopupActive
+#!1-2-18-PopupActive
+#!1-2-18-PopupActiveMini
+#!1-3-4-Popup
+#!1-3-4-PopupMini
+#!1-5-19-Close
+#!1-5-19-Maximize
+#!1-6-19-MaximizeHover
+#!1-6-20-CloseHover
+#!1-9-12-CancelButton
+#ArrowDown
+#ArrowLeft
+#ArrowRight
+#ArrowUp
+#CheckboxChecked
+#CheckboxCheckedActive
+#CheckboxCollapse
+#CheckboxCollapseActive
+#CheckboxExpand
+#CheckboxExpandActive
+#CheckboxUnchecked
+#CheckboxUncheckedActive
+#Checkmark
+#CheckmarkHover
+#ColorField
+#ColorFieldActive
+#ColorHighlight50
+#ColorMainButton50
+#ColorPickerHorizontal
+#ColorPickerVertical
+#Details
+#DockFrame
+#Error
+#Favorite
+#Frame
+#FrameFilled
+#Info
+#InspectorLocked
+#InspectorLockedHover
+#InspectorUnlocked
+#InspectorUnlockedHover
+#LineBottomThick-BorderButton
+#LineBottomThick-BorderButtonActive
+#LineRight-Border
+#LineRight-Highlight
+#LineRight-HighlightButton
+#LineRight-Main
+#Link
+#Link50
+#LinkBroken
+#LinkBroken50
+#Minimize
+#MinimizeHover
+#Minus
+#MinusInvert
+#Outline-Border-Thick
+#Outline-Border
+#Outline-Button-Thick
+#PaneOptions
+#PaneOptionsHover
+#PatternPlus
+#Plus
+#PlusInvert
+#PopupToolbar
+#Search
+#SearchPopup
+#Selector
+#SelectorActive
+#SelectorActiveMini
+#SelectorMini
+#Sideline-Highlight
+#TabActive
+#TabWindow
+#Tag
+#TransitionOff
+#TransitionOn
+#TriangleDown
+#TriangleDownMini
+#TriangleLeft
+#TriangleRight
+#TriangleUp
+#Warning
+=$/Assets/Clean Title Transitions/Sprites
+Demo Background
+Heart
+Locked
++/Circles
+Circle - Filled
+Circle - Stroke 15x
+=$/Assets/Clean Title Transitions/Sprites/Sliced
+Line - Stroke 10
+S4 Border - Stroke 5
+Square
+=$/Assets/Field - Complete Main Menu (Lite)/Models/Characters/Ethan/Textures
+EthanNormals
+EthanOcclusion
+=$/Assets/Field - Complete Main Menu (Lite)/Textures
+Game Logo
++/Backgrounds
+Main Background (16x9 - wo Spark)
+Main Background (16x9)
+News Background (1080x720)
+News Gradient (Blue)
+News Gradient (Jean)
+News Gradient (Lomo)
+News Gradient (Purple)
+Spotlight Button (16x9) 2
+Spotlight Button (16x9)
+Vertical Button (500x665) 2
+Vertical Button (500x665) 3
+Vertical Button (500x665)
+=$/Assets/Field - Complete Main Menu (Lite)/Textures/Borders/Basic
+Basic Filled - Modal Tab Button 10px
+Basic Filled 10px
+Basic Outline 10px - Stroke 10px
+Basic Outline 10px - Stroke 12px
+Basic Outline 10px - Stroke 14px
+Basic Outline 10px - Stroke 16px
+Basic Outline 10px - Stroke 18px
+Basic Outline 10px - Stroke 20px
+Basic Outline 10px - Stroke 4px
+Basic Outline 10px - Stroke 5px
+Basic Outline 10px - Stroke 8px
+Square Glow
+Square
+Square_2
+=$/Assets/Field - Complete Main Menu (Lite)/Textures/Borders/Circles
+Circle Filled 64px
+Circle Outline 64px - Stroke 10px
+Circle Outline 64px - Stroke 12px
+Circle Outline 64px - Stroke 14px
+Circle Outline 64px - Stroke 16px
+Circle Outline 64px - Stroke 18px
+Circle Outline 64px - Stroke 20px
+Circle Outline 64px - Stroke 3px
+Circle Outline 64px - Stroke 5px - Pink Gradient
+Circle Outline 64px - Stroke 5px - Vintage Red Gradient
+Circle Outline 64px - Stroke 5px - Vista Blue Gradient
+Circle Outline 64px - Stroke 5px
+Circle Outline 64px - Stroke 8px
+Circle Outline Dash 64px - Stroke 3px
+Circle Shadow 64px
+=$/Assets/Field - Complete Main Menu (Lite)/Textures/Borders/Rounded
+Rounded Circle 64px (500ppu)
+Rounded Circle 64px - Stroke 8px
+Rounded Circle 64px
+Rounded Cut 64px (500ppu)
+Rounded Filled 64px (News)
+Rounded Filled 64px (Scrollbar)
+Rounded Filled 64px
+Rounded Outline 64px - Stroke 10px
+Rounded Outline 64px - Stroke 12px (500 ppu)
+Rounded Outline 64px - Stroke 12px
+Rounded Outline 64px - Stroke 14px
+Rounded Outline 64px - Stroke 16px
+Rounded Outline 64px - Stroke 18px
+Rounded Outline 64px - Stroke 20px
+Rounded Outline 64px - Stroke 5px
+Rounded Outline 64px - Stroke 8px
+=$/Assets/Field - Complete Main Menu (Lite)/Textures/Gradients
+Button Effect
+Default Gradient
+Gradient
+=$/Assets/Field - Complete Main Menu (Lite)/Textures/Icons
+Add
+AR
+Arms
+Back
+Boots
+Check
+Clothing (x256)
+Clothing
+Controls
+Delete
+Discord
+Dust Mote
+E-mail
+Exit
+Gameplay
+Graphics
+Grenade
+Invite
+Lock
+Logo
+Message
+Michsky Logo
+News
+Offline
+Online
+Panel Seperator
+Pants
+Pistol
+Play
+Send
+Settings
+Soldier (x256)
+Soldier
+Sounds
+SR
+Stats
+Sunglasses
+Trophy Example
+Trophy
+User
+Warning
+Weapon
+=$/Assets/Field - Complete Main Menu (Lite)/Textures/Others
+Smoke
+=$/Assets/Field - Complete Main Menu (Lite)/Textures/Shadows
+Square Shadow
+=$/Assets/Looader/Textures
+Circle Outline x6
+Circle Outline
+Circle
++/Demo
+Demo Background
+Looader Flat Logo
+Sliced Border x5
+Tutorial Play
+=$/Assets/Looader/Textures/Styles/Filled
+Game Logo BG
+Game Logo
+=$/Assets/Looader/Textures/Styles/TW3
+TW3 Loader
+=$/Assets/Skyboxes/DeepSpaceBlue
+backImage
+downImage
+frontImage
+leftImage
+rightImage
+upImage
++WithPlanet
+backImage
+downImage
+frontImage
+leftImage
+rightImage
+upImage
+=$/Assets/Skyboxes/DeepSpaceGreen
+backImage
+downImage
+frontImage
+leftImage
+rightImage
+upImage
++WithPlanet
+backImage
+downImage
+frontImage
+leftImage
+rightImage
+upImage
+=$/Assets/Skyboxes/DeepSpaceRed
+backImage
+downImage
+frontImage
+leftImage
+rightImage
+upImage
+=$/Assets/Skyboxes/DeepsSpaceRedWithPlanet
+backImage
+downImage
+frontImage
+leftImage
+rightImage
+upImage
+=$/Assets/Skyboxes/Stars01
+backImage
+downImage
+frontImage
+leftImage
+rightImage
+upImage
+=$/Assets/SpaceFighter/Textures
+spacefighter_Glass_Normal
+spacefighter_Helium3_AlbedoTransparency
+spacefighter_Helium3_Emission
+spacefighter_Helium3_MetallicSmoothness
+spacefighter_Helium3_Normal
+spacefighter_Rocket_AlbedoTransparency
+spacefighter_Rocket_Emission
+spacefighter_rocket_launcher_AlbedoTransparency
+spacefighter_rocket_launcher_MetallicSmoothness
+spacefighter_rocket_launcher_Normal
+spacefighter_Rocket_MetallicSmoothness
+spacefighter_Rocket_Normal
+spacefighter_SpacefighterMain_AlbedoTransparency
+spacefighter_SpacefighterMain_Emission
+spacefighter_SpacefighterMain_MetallicSmoothness
+spacefighter_SpacefighterMain_Normal
+spacefighter_SpaceFighterWings_AlbedoTransparency
+spacefighter_SpaceFighterWings_Emission
+spacefighter_SpaceFighterWings_MetallicSmoothness
+spacefighter_SpaceFighterWings_Normal
+=$/Assets/Sprites
+Untitled
+=$/Assets/TextMesh Pro/Examples & Extras/Sprites
+Default Sprites
+=$/Assets/TextMesh Pro/Examples & Extras/Textures
+Stainless 03
+Text Overflow - Linked Text Image 1
+Text Overflow - Linked Text UI Screenshot
+=$/Assets/TextMesh Pro/Sprites
+EmojiOne
+=$/Assets/Textures and Sprites/Decoration
+Icon1
+Icon2
+Icon3
+=$/Assets/Textures and Sprites/Rounded UI
+UIButtonCorner
+UIButtonDefault
+UIPanel
+UIToggleButton
+=$/Assets/VolumetricLines/ExampleScenes/ExampleTextures
+gui
+(guicontent)
+=$/Assets/@Themes/Iconsets/Simplicity
+UnityEditor.BuildPlayerWindow.styles
+UnityEditor.ProjectBrowser.s_Styles
+UnityEditor.Toolbar.s_CollabIcons
+(unitypalette)
+=$/Assets/@Themes/Palettes/Automatic
+@System
+Single
+Three
+=$/Assets/@Themes/Palettes/Basic
+Darkness
+Grayson
+Muted
+Natural
+Obsidian
+ObsidianB
+Silversky
+Slate
+Steamed
+=$/Assets/@Themes/Palettes/Colorful
+Amazon
+Aquarium
+Beaches
+Cafe
+Crimson
+Elegance
+Forestry
+Juiced
+Lavender
+Leather
+Loch
+Nightfall
+Patriot
+Recon
+Rusty
+Solarized
+Tones
+Volcanic
+Zest
+Zone
+=$/Assets/@Themes/Palettes/Novelty
+3.11
+Alien
+Amped
+Lisa
+Scream
+SuperF
+SuperN
+SymbOS
+Terminal
+TheColorsDuke
+Turtles!
+XP
+(guiskin)
+=$/Assets/@Themes/Skinsets/Default
+Default
+UnityEditor.GameObjectTreeViewGUI+GameObjectStyles
+UnityEditor.IMGUI.Controls.TreeViewGUI+Styles
+=$/Assets/@Themes/Skinsets/Simplicity
+Simplicity
+UnityEditor.AddComponentWindow.s_Styles
+UnityEditor.AnimationWindowStyles
+UnityEditor.AnnotationWindow.m_Styles
+UnityEditor.BuildPlayerWindow.styles
+UnityEditor.EditorStyles.s_Current
+UnityEditor.GameObjectTreeViewGUI+GameObjectStyles
+UnityEditor.IMGUI.Controls.TreeViewGUI+Styles
+UnityEditor.PlayerSettingsEditor+Styles
++/+ClassyForms
+ClassyForms#Button
+ClassyForms#Command
+ClassyForms#Dock
+ClassyForms#Dropdown
+ClassyForms#Field
+ClassyForms#Label
+ClassyForms#Popup
+ClassyForms#Tab
+ClassyForms#Title
+ClassyForms#Toggle
+ClassyForms#Toolbar
+ClassyForms
+UnityEditor.BuildPlayerWindow.styles
+=$/Assets/@Themes/Skinsets/Simplicity/+DefaultMargins
+UnityEditor.EditorStyles.s_Current
+=$/Assets/@Themes/Skinsets/Simplicity/+WindowBrushed
+WindowBrushed#
+(anim)
+=$/Assets/Animation
+Rotation
++/MainMenu
+Closed
+Open
+=$/Assets/Animation/Panel
+Closed
+Closing
+Open
+=$/Assets/Animation/Settings
+Closed
+Open
+=$/Assets/Clean Title Transitions/Animations/Common
+Wait
+=$/Assets/Clean Title Transitions/Animations/Demo
+Button Close
+Button Open
+Panel Close
+Panel Open
+=$/Assets/Clean Title Transitions/Animations/Style 1
+Style 1 Expand
+Style 1 Loop
+=$/Assets/Clean Title Transitions/Animations/Style 2
+Style 2 Expand
+Style 2 Loop
+=$/Assets/Clean Title Transitions/Animations/Style 3
+Style 3 Close
+Style 3 Expand
+Style 3 Loop
+=$/Assets/Clean Title Transitions/Animations/Style 6
+Style 6 Close
+Style 6 Expand
+Style 6 Loop
+=$/Assets/Clean Title Transitions/Animations/Style 7
+Style 7 Close
+Style 7 Expand
+Style 7 Loop
+=$/Assets/Clean Title Transitions/Animations/Style 8
+Style 8 Close
+Style 8 Expand
+Style 8 Loop
+=$/Assets/Field - Complete Main Menu (Lite)/Animations/Buttons
+SCB Hover to Normal
+SCB Hover to Pressed
+SCB Hover
+SCB Normal
+SCB Pressed to Normal
+TB Hover to Normal
+TB Hover to Pressed
+TB Hover
+TB Normal
+TB Pressed to Normal
+=$/Assets/Field - Complete Main Menu (Lite)/Animations/Input Fields
+In
+=$/Assets/Field - Complete Main Menu (Lite)/Animations/Panels
+CG Fade-in
+Chat Panel In
+Chat Panel Out
+Exit Panel In
+Exit Panel Out
+Friends Panel In
+Friends Panel Out
+Loop
+Main Panel Opening Start
+Main Panel Opening
+MM Panel In
+MM Panel Out
+Modal Window In
+Modal Window Out
+NPI In
+NPI Out
+Settings In
+Spotlight Background Loop
+SS Fade-in
+SS Fade-out
+SS w Login Fade-in
+SS w Login Fade-out
+SSCR Fade-in
+SSCR Fade-out
+=$/Assets/Field - Complete Main Menu (Lite)/Animations/Tooltips
+Tooltip In
+Tooltip Out
+=$/Assets/Looader/Animations/Background
+Battlefield 4 Background
+Battlefield 4
+Fade In
+Fade Out
+TW3 Background
+=$/Assets/Looader/Animations/Demo
+Logo Spin
+=$/Assets/Looader/Animations/PAK
+PAK Fade-in
+PAK Fade-out
+=$/Assets/Looader/Animations/Progress Bars
+Circle Paced
+Simple Loader
+TW3
+(controller)
+=$/Assets/Animation
+SF Button
++/MainMenu
+MainMenu
+=$/Assets/Animation/Panel
+Panel
+=$/Assets/Animation/Settings
+SettingsMenu
+=$/Assets/Clean Title Transitions/Animations/Demo
+Button
+Panel
+=$/Assets/Clean Title Transitions/Animations/Style 1
+Style 1
+=$/Assets/Clean Title Transitions/Animations/Style 2
+Style 2
+=$/Assets/Clean Title Transitions/Animations/Style 3
+Style 3
+=$/Assets/Clean Title Transitions/Animations/Style 6
+Style 6
+=$/Assets/Clean Title Transitions/Animations/Style 7
+Style 7
+=$/Assets/Clean Title Transitions/Animations/Style 8
+Style 8
+=$/Assets/Field - Complete Main Menu (Lite)/Animations/Buttons
+Main Button (Description)
+Main Button
+Main List Button
+Settings Cat Button
+Spotlight Button
+Top Button
+=$/Assets/Field - Complete Main Menu (Lite)/Animations/Input Fields
+InputField
+=$/Assets/Field - Complete Main Menu (Lite)/Animations/Panels
+Backgrounds
+CG Fading
+Chat Panel
+Exit Panel
+Friends Panel
+Main Panel
+MM Panel
+Modal Window
+NPI
+Settings
+Signup Screen
+Splash Screen w Login
+Splash Screen
+Spotlight Background
+=$/Assets/Field - Complete Main Menu (Lite)/Animations/Tooltips
+Tooltip
+=$/Assets/Looader/Animations/Background
+Background Fading
+Background
+Backgrounds
+Battlefield 4
+=$/Assets/Looader/Animations/Buttons
+Button
+=$/Assets/Looader/Animations/Demo
+Looader Logo
+=$/Assets/Looader/Animations/PAK
+Press Any Key
+=$/Assets/Looader/Animations/Progress Bars
+Circle Paced
+Simple Loader
+TW3 Loader
+(wav)
+=$/Assets/Audio
+explosion_asteroid
+explosion_enemy
+explosion_player
+music_background
+weapon_enemy
+weapon_player
+=$/Assets/Field - Complete Main Menu (Lite)/Sounds
+Login
+(unity)
+=$/Assets/Clean Title Transitions
+Demo
+=$/Assets/Field - Complete Main Menu (Lite)
+Free Demo
+=$/Assets/HSVPicker
+PickerTest
+=$/Assets/Looader/Scenes
+Demo (Virtual Loading)
+Demo
+Test Scene
+Trigger Example
+=$/Assets/SampleScenes/Scenes
+NetworkLobby
+NetworkSpaceship
+=$/Assets/Scenes
+Build
+Main
+MainMenu
+Play
+Test
++/SamplesUI
+Controls
+Drag And Drop
+Draggable Panel
+Layout Groups
+Lighting
+Menu 3D
+RenderTexture
+SampleScene
+=$/Assets/TextMesh Pro/Examples & Extras/Scenes
+01-  Single Line TextMesh Pro
+02 - Multi-line TextMesh Pro
+03 - Line Justification
+04 - Word Wrapping
+05 - Style Tags
+06 - Extra Rich Text Examples
+07 - Superscript & Subscript Example
+08 - Improved Text Alignment
+09 - Margin Tag Example
+10 - Bullets & Numbered List Example
+11 - The Style Tag
+12 - Link Example
+12a - Text Interactions
+13 - Soft Hyphenation
+14 - Multi Font & Sprites
+15 - Inline Graphics & Sprites
+16 - Linked text overflow mode example
+17 - Old Computer Terminal
+18 - ScrollRect & Masking & Layout
+19 - Masking Texture & Soft Mask
+20 - Input Field with Scrollbar
+21 - Script Example
+22 - Basic Scripting Example
+23 - Animating Vertex Attributes
+24 - Surface Shader Example
+25 - TextMeshPro Title
+Benchmark (Floating Text)
+Benchmark (Point Sizes)
+Benchmark (Script)
+Benchmark (Shader Perf)
+Distance Field Shader Check
+=$/Assets/VolumetricLines/ExampleScenes
+LaserCannon
+StaticLines
+(prefab)
+=$/Assets/Clean Title Transitions/Resources
+Style 1
+Style 2
+Style 3
+Style 6
+Style 7
+Style 8
+=$/Assets/Field - Complete Main Menu (Lite)/Prefabs/Buttons
+Effective Button
+Main Button (Only Icon)
+Main Button (With Icon)
+Main Button
+Main Top Button
+Profile List Button
+Settings List Button
+Spotlight Button
+Vertical Button
+=$/Assets/Field - Complete Main Menu (Lite)/Prefabs/Chat
+Chat Panel
+Example Message Text
+Room Example
+Type Message
+=$/Assets/Field - Complete Main Menu (Lite)/Prefabs/Modal Windows
+Exit Window
+=$/Assets/Field - Complete Main Menu (Lite)/Prefabs/News
+Example News Element
+News Section
+=$/Assets/Field - Complete Main Menu (Lite)/Prefabs/Text Inputs
+Username
+=$/Assets/Field - Complete Main Menu (Lite)/Prefabs/Tooltips
+Tooltip
+=$/Assets/HSVPicker
+Picker 2.0
+=$/Assets/Looader/Prefabs/Progress Bars
+Radial Progress Bar
++ Loop
+Crossfire
+Loader
+=$/Assets/Looader/Resources
+Crossfire_Style
+Filled_Style
+Looader Manager
+Stock_Style
+Stock_Style_Virtual
+Trigger Object
+TW3_Style
+=$/Assets/Models
+CombinedMeshes_Mothership
+=$/Assets/Prefabs
+Asteroid 1
+Asteroid_01
+Asteroid_02
+Asteroid_03
+Ball
+Bolt
+Boss
+Button
+Buy
+Enemy 01
+Enemy 02
+Enemy 03
+Enemy 1
+Enemy 2
+Enemy 3
+EnemyBullet
+EnemyBulletLarge
+EnemyMissile
+explosion_asteroid
+explosion_enemy
+explosion_player
+SF Button
+SF Grid Button
+SF Scene Elements
+SF Slider
+SF Title
+SF Toggle
+Shield
+Slider Lit
+SpaceshipBlue
+WeaponSelectButton
++/VFX/Engines
+engines_enemy
+engines_player
+=$/Assets/Prefabs/VFX/Explosions
+explosion_player
+=$/Assets/Prefabs/VFX/Starfield
+StarField
+=$/Assets/Resources
+Example
++/Cubes
+Cube
+CubeNoCollision
+Triangle
+WeaponPylon
+=$/Assets/Resources/Projectiles
+Green
+Sphere
+=$/Assets/Resources/Spaceships/Prefabs
+Deprecated
+SpaceshipBlue
+SpaceshipOrange
+SpaceshipPurple
+=$/Assets/SampleScenes/Prefabs
+BigAsteroid
+SmallAsteroid
+Spaceship
+SpaceshipBullet
+=$/Assets/TextMesh Pro/Examples & Extras/Prefabs
+Text Popup
+TextMeshPro - Prefab 1
+TextMeshPro - Prefab 2
+=$/Assets/UI
+BarrelButton
+Color Button
+Color
+Guns
+Input
+NormalButton
+Panel
+SimpleInput
+SmallerButton
+WeaponButton
+=$/Assets/VolumetricLines/ExampleScenes
+shot_prefab(Clone)
+shot_prefab
++/ExamplePrefabs
+Cannon
+Smoke
+=$/Assets/VolumetricLines/Prefabs
+VolumetricLinePrefab
+VolumetricLineStripPrefab
+VolumetricMultiLinePrefab
+(mat)
+=$/Assets/Field - Complete Main Menu (Lite)/Materials
+Blur x1
+Blur x2
+Blur x3
+Blur x4
+Blur x5
+Dissolve
+Dust Mote
+Embers Additive
+Embers
+Smoke
+=$/Assets/Field - Complete Main Menu (Lite)/Models/Characters/Ethan/Models/Materials
+EthanWhite
+=$/Assets/Looader/Materials
+Plane
+=$/Assets/Materials
+Blur
+Floor
+fx_bolt_orange
+fx_enemyShip_engines_mat
+fx_lazer_cyan_dff
+fx_lazer_orange_dff
+part_blast_mat
+part_glow_mat
+part_jet_core_mat
+part_jet_flare_mat
+part_shockwave_mat
+part_spark_blue_mat
+part_spark_large_mat
+part_spark_white_mat
+part_spark_yellow_mat
+part_star_mat
+prop_asteroid_01_mat
+prop_asteroid_02_mat
+prop_asteroid_03_mat
+Shield
+Slider Background
+Slider Fill
+Slider Knob
+tile_nebula_green_dff
+TUES_PlayerShip_Material
+UI Opaque
+vehicle_enemyShip_glow_mat
+vehicle_enemyShip_metal_mat
+vehicle_playerShip_glass_mat
+vehicle_playerShip_metal_mat
+Window
+=$/Assets/Models
+Transparent
++/Materials
+vehicle_rcFlyer_dome_mat
+vehicle_rcFlyer_metal_mat
+vehicle_rcLand_clean_dome_mat
+=$/Assets/Pictures/Materials
+Mothership
+=$/Assets/Resources/ProjectileMats
+BasicLine
+Green
+Purple
+=$/Assets/SampleScenes/Materials
+FlyerAsteroid
+FlyerPlayership
+ParticleAfterburner
+WhiteSmooth
+WhiteUnlit
+=$/Assets/SampleScenes/Models/Materials
+Asteroid
+SpaceshipGlow
+SpaceshipHull
+=$/Assets/Skyboxes/DeepSpaceBlue
+DSB
++WithPlanet
+DSBWP
+=$/Assets/Skyboxes/DeepSpaceGreen
+DSG
++WithPlanet
+DSGWP
+=$/Assets/Skyboxes/DeepSpaceRed
+DSR
+=$/Assets/Skyboxes/DeepsSpaceRedWithPlanet
+DSRWP
+=$/Assets/Skyboxes/Stars01
+StarSkyBox
+=$/Assets/SpaceFighter/Materials
+Glass
+Helium3
+Rocket
+rocket_launcher
+SpacefighterMain
+SpaceFighterWings
+=$/Assets/TextMesh Pro/Examples & Extras/Materials
+Crate - Surface Shader Scene
+Ground - Logo Scene
+Ground - Surface Shader Scene
+Small Crate_diffuse
+=$/Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials
+Anton SDF - Drop Shadow
+Anton SDF - Outline
+Bangers SDF - Drop Shadow
+Bangers SDF - Outline
+Bangers SDF Glow
+Bangers SDF Logo
+LiberationSans SDF - Metalic Green
+LiberationSans SDF - Overlay
+LiberationSans SDF - Soft Mask
+Roboto-Bold SDF - Drop Shadow
+Roboto-Bold SDF - Surface
+=$/Assets/TextMesh Pro/Resources/Fonts & Materials
+LiberationSans SDF - Drop Shadow
+LiberationSans SDF - Outline
+=$/Assets/VolumetricLines/ExampleScenes/ExampleMaterials
+shot_mat
+smoke_mat
+=$/Assets/VolumetricLines/Materials
+VolumetricLineMaterial
+VolumetricLineStripMaterial
+(fbx)
+=$/Assets/Field - Complete Main Menu (Lite)/Models/Characters/Ethan/Animation
+HumanoidCrouch
+HumanoidIdle
+HumanoidIdleJumpUp
+HumanoidJumpAndFall
+HumanoidMidAir
+HumanoidRun
+HumanoidRunTurn
+HumanoidRunTurnSharp
+HumanoidStandTurn
+HumanoidWalk
+HumanoidWalkTurn
+HumanoidWalkTurnSharp
+=$/Assets/Field - Complete Main Menu (Lite)/Models/Characters/Ethan/Models
+Ethan
+=$/Assets/Models
+Cube
+Mothership
+prop_asteroid_01
+prop_asteroid_02
+prop_asteroid_03
+Triangle
+TUES_PlayerShip
+vehicle_enemyShip
+vehicle_playerShip
+vehicle_playerShip_collider
+vehicle_rcFlyer_clean
+WeaponPylon
+=$/Assets/SampleScenes/Models
+Asteroid01
+FlyerAsteroidB
+LaserBolt
+Spaceship
+=$/Assets/SpaceFighter/Meshes
+helium3
+helium3_LOD1
+warhead
+warhead_LOD1
+warhead_LOD2
+(shader)
+=$/Assets/Field - Complete Main Menu (Lite)/Shaders
+Dissolve
+UI Blur
+=$/Assets/Materials
+UI-Default-No-Alpha
+=$/Assets/Shaders
+Blur
+=$/Assets/SpaceFighter
+GlassStainedBumpDistort
+=$/Assets/TextMesh Pro/Resources/Shaders
+TMP_Bitmap-Custom-Atlas
+TMP_Bitmap-Mobile
+TMP_Bitmap
+TMP_SDF Overlay
+TMP_SDF-Mobile Masking
+TMP_SDF-Mobile Overlay
+TMP_SDF-Mobile
+TMP_SDF-Surface-Mobile
+TMP_SDF-Surface
+TMP_SDF
+TMP_Sprite
+=$/Assets/VolumetricLines/Shaders
+Additive
+AlphaBlended
+Fast-Additive
+Fast-AlphaBlended
+Strip-Additive
+Strip-AlphaBlended
+(mp3)
+=$/Assets/Field - Complete Main Menu (Lite)/Sounds
+Element Click - Var 2
+Element Click
+Element Hover
+Notification Alert
+(tif)
+=$/Assets/Field - Complete Main Menu (Lite)/Textures/Others
+Clouds
+Smoke Normal
+Smoke Sheet
+=$/Assets/Models/Textures
+vehicle_rcFlyer_dff
+vehicle_rcFlyer_nrm
+=$/Assets/SampleScenes/Textures
+FlyerAsteroidEmissive
+FlyerPlayershipAlbedo
+FlyerPlayershipEmission
+FlyerPlayershipOcclusion
+=$/Assets/SpaceFighter/Textures
+Glass_Base_Color
+=$/Assets/Textures
+fx_lazer_cyan_dff
+fx_lazer_orange_dff
+part_enginePulse_dff
+part_flash_dff
+part_jet_core_dff
+part_jet_flare_dff
+part_shockwave_dff
+part_spark_large_dff
+part_spark_small_dff
+part_star_dff
+prop_asteroid_01_dff
+prop_asteroid_01_nrm
+prop_asteroid_02_dff
+prop_asteroid_02_nrm
+prop_asteroid_03_dff
+prop_asteroid_03_nrm
+tile_nebula_green_dff
+vehicle_enemyShip_nrm
+vehicle_enemyShip_purple_dff
+vehicle_enemyShip_red_dff
+vehicle_playerShip_orange_dff
+vehicle_playerShip_orange_nrm
+(compute)
+=$/Assets/HSVPicker/Resources/Shaders/Compute
+GenerateSVTexture
+(psd)
+=$/Assets/Looader/Textures
+Main Menu
+=$/Assets/TextMesh Pro/Examples & Extras/Sprites
+DropCap Numbers
+=$/Assets/TextMesh Pro/Examples & Extras/Textures
+Mask Zig-n-Zag
+Wipe Pattern - Circle
+Wipe Pattern - Diagonal
+Wipe Pattern - Radial Double
+Wipe Pattern - Radial Quad
+=$/Assets/Textures and Sprites/Decoration
+DottedRoundedRect
+Unity Logo Unlit
+=$/Assets/Textures and Sprites/Lit UI
+BackgroundNormal
+DiagonalSpritesNormal
+DiagonalStripes
+KnobNormal
+UISpriteNormal
+White
+=$/Assets/Textures and Sprites/SF UI
+SF Button
+SF Generic
+SF Title
+SF Window
+=$/Assets/VolumetricLines/ExampleScenes/ExampleTextures
+Steam_A_from_Unity_sample_project_AngryBots
+(xml)
+=$/Assets/Resources/Players
+ImperialWolf
+=$/Assets/Resources/Spaceships
+shema
+=$/Assets/Resources/Weapons
+asdftoto
+BlackSG
+laser
+pu6ka
+(mtl)
+=$/Assets/SpaceFighter/Meshes
+spacefighter_LOD0
+(obj)
+spacefighter_LOD0
+(cginc)
+=$/Assets/TextMesh Pro/Resources/Shaders
+TMPro
+TMPro_Properties
+TMPro_Surface
+=$/Assets/VolumetricLines/Shaders
+_SimpleShader
+_StripShader
+(json)
+=$/Assets/TextMesh Pro/Sprites
+EmojiOne
+(cubemap)
+=$/Assets/Textures
+cube_junkyard_sharp
+cube_junkyard_soft
+(tga)
+TUES_PlayerShip_Albedo
+TUES_PlayerShip_Height
+TUES_PlayerShip_Metallic
+TUES_PlayerShip_Normal
+(renderTexture)
++ and Sprites
+RenderTexture

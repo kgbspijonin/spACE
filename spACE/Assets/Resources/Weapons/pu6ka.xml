@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<Weapon xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <name>pu6ka</name>
+  <barrel>Machine gun</barrel>
+  <bullet>Cyan</bullet>
+  <fireRate>2</fireRate>
+</Weapon>
